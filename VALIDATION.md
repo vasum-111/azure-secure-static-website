@@ -19,3 +19,7 @@ The Validate workflow runs tests, compiles Bicep and checks shell syntax. Consul
 - End-to-end cloud smoke tests, billing review and teardown.
 
 No Azure live endpoint, latency benchmark, availability result or cost saving is claimed without deployment evidence.
+
+## Public preview smoke test
+
+Verified on September 21, 2026: HTTPS preview loads with its explicit deployment-status notice. Navigation and architecture content rendered correctly.
